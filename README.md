@@ -1,6 +1,7 @@
 # Algerian Forest Fires Dataset Visualization
 
 This project visualizes the Algerian Forest Fires Dataset using a scatter plot to show the relationship between temperature and relative humidity, with date (month-day) information displayed on hover.
+![Uploading image.png…]()
 
 ## Table of Contents
 - [Features](#features)
