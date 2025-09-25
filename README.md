@@ -50,6 +50,3 @@ The dataset used is the [Algerian Forest Fires Dataset](https://archive.ics.uci.
 - **Y-axis**: Relative Humidity (%).
 - **Color**: The color of scatter points represents humidity levels (from high to low, indicated by the visual map on the right).
 - **Tooltip**: On hover, shows the date (month-day) and relative humidity.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
